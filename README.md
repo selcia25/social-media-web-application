@@ -61,7 +61,3 @@ While developing SociallyConnected, several challenges were encountered, includi
 ### Future Scope
 
 SociallyConnected has promising future scope areas, including chat functionality, personalized recommendations, enhanced privacy and security, integration with learning management systems, gamification and rewards, and the development of a dedicated mobile application. By continuously adapting to the changing needs and aspirations of college students, SociallyConnected aims to solidify its position as a leading social media platform tailored for academic and career growth.
-
----
-
-Feel free to customize and expand upon this README template according to the specific details and requirements of your project.
